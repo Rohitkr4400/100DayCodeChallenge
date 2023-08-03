@@ -1,5 +1,5 @@
 public class Ch5_loop_dowhile_break {
-    public static void main(String[] args) {
+    public static void main(String[] args) {  // print number using while loop
         int i=1;
         do{
             System.out.println(i);
